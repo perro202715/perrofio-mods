@@ -3,5 +3,25 @@
     "minecraft": "1.20.1",
     "forge": "47.4.28",
     "game_directory": ".perrofio",
-    "mods": []
+    "mods": [
+        {
+            "name": "perrofio menus",
+            "source": "direct",
+            "file": "perrofiomenus-1.0.0",
+            "url": "https://raw.githubusercontent.com/TU_USUARIO/perrofio-mods/main/mods/perrofio-mod.jar",
+            "version": "1.0.0",
+            "hash": {
+                "algorithm": "sha256",
+                "value": "3F254CDABF69503E3CFFE94882E102AAD60DA11638C364ADFD3577FE9D9B0A8C"
+            },
+            "required": true
+        },
+        {
+            "name": "Customskyboxes",
+            "source": "curseforge",
+            "project_id": 1550717,
+            "file_id": 8967875,
+            "required": true
+        }
+    ]
 }
